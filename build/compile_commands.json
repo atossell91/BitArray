@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/ant/Programming/BitArray/build",
+  "command": "/usr/bin/clang++  -I/home/ant/Programming/BitArray/include -g -o CMakeFiles/BitArray.dir/src/main.cpp.o -c /home/ant/Programming/BitArray/src/main.cpp",
+  "file": "/home/ant/Programming/BitArray/src/main.cpp"
+},
+{
+  "directory": "/home/ant/Programming/BitArray/build",
+  "command": "/usr/bin/clang++  -I/home/ant/Programming/BitArray/include -g -o CMakeFiles/BitArray.dir/src/Bit.cpp.o -c /home/ant/Programming/BitArray/src/Bit.cpp",
+  "file": "/home/ant/Programming/BitArray/src/Bit.cpp"
+},
+{
+  "directory": "/home/ant/Programming/BitArray/build",
+  "command": "/usr/bin/clang++  -I/home/ant/Programming/BitArray/include -g -o CMakeFiles/BitArray.dir/src/BitArray.cpp.o -c /home/ant/Programming/BitArray/src/BitArray.cpp",
+  "file": "/home/ant/Programming/BitArray/src/BitArray.cpp"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g CMakeFiles/BitArray.dir/src/main.cpp.o CMakeFiles/BitArray.dir/src/Bit.cpp.o CMakeFiles/BitArray.dir/src/BitArray.cpp.o -o BitArray 

@@ -1,0 +1,3 @@
+/home/ant/Programming/BitArray/build/CMakeFiles/BitArray.dir
+/home/ant/Programming/BitArray/build/CMakeFiles/edit_cache.dir
+/home/ant/Programming/BitArray/build/CMakeFiles/rebuild_cache.dir
